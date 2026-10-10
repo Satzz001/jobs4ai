@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
 :root { font-family: Inter, ui-sans-serif, system-ui, sans-serif; color: #f5f7ef; background: #10110f; font-synthesis: none; }
 html { scroll-behavior: smooth; }
